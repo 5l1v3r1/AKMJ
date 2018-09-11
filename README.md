@@ -3,7 +3,9 @@
   <i>pkg install python2
     <br>pkg install figlet
     <br>pkg install ruby
+    <br>pkg install git 
     <br>gem install lolcat
+   <br>git clone https://www.github.com/herp1337/AKMJ
     <br>cd AKMJ/
     <br>python2 AKMJ.py [IP] [PARAMETER]
     <br>contoh: python2 AKMJ.py 8.8.8.8 --help
